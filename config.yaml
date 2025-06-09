@@ -1,0 +1,4 @@
+spotify:
+  api_key: <put-your-api-key-here>
+  client_id: <put your client id key here>
+  playlist_id: <your playlist id>
